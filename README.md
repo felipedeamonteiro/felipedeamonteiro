@@ -5,7 +5,7 @@
 
 - 🎓 Mechanical Engineer graduated from UNICAMP - São Paulo / Brazil;
 
-- 🎓 Electrical Engineer student in UNICAMP - São Paulo / Brazil;
+- 🎓 Electrical Engineer student at UNICAMP - São Paulo / Brazil;
 
 - :computer: FullStack Developer;
 

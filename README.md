@@ -5,13 +5,11 @@
 
 - 🎓 Mechanical Engineer graduated from UNICAMP - São Paulo / Brazil;
 
-- 🎓 Electrical Engineer student at UNICAMP - São Paulo / Brazil;
-
 - :computer: FullStack Developer;
 
-- :books: 🌱  Always studying React, React-Native, Nodejs and the best algorithms in Javascript/Typescript, but also interested in Python applied to Machine Learning and Artificial Inteligence;
+- :books: 🌱  Always studying React, React-Native, Node.js and the best algorithms in Javascript/Typescript, but also interested in Python applied to Machine Learning and Artificial Inteligence;
 
-- :speech_balloon: Ask me about full-stack, web, martial arts, anime or literally anything!
+- :speech_balloon: Ask me about fullstack, web, martial arts, anime or literally anything!
 
 - :mailbox: You can reach me with the links below:
 
